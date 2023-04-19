@@ -1,0 +1,19 @@
+.evening{
+  background-color: orange  ;
+  color: darkblue;
+}
+
+.morning{
+  background-color: white;
+  color: brown;
+}
+
+.afternoon{
+  background-color: skyblue;
+  color: darkblue;
+}
+
+.night{
+  background-color: rgb(red, green, blue);
+  color: white;
+}
